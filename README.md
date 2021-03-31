@@ -1,4 +1,4 @@
-# ZhengStud.io
+# Sophia Zheng
 Personal Website
 
-Visit [zhengstud.io](http://www.zhengstud.io)
+Visit [sophiiae.github.io](https://sophiiae.github.io/)
